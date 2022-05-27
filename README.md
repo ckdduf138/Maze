@@ -14,22 +14,25 @@
 DFS를 이용해 미로를 만들다 보니 길이 하나만 생성되니 시작부터 승패가 결정나 이런 현상을 개선하고자 랜덤으로 벽을 뚫어 <br>
 플레이어의 선택에 더 큰 영향을 받을 수 있도록 수정했습니다.<br>
 
+<h3> 사용기술 </h3> <hr>
+C++, BFS, DFS
 
-<h3> 게임 시작 메인 화면 </h3> <hr>
+<h3> 콘솔 화면 </h3>
+게임 시작 메인 화면
 
 <img src="https://user-images.githubusercontent.com/69779719/167595972-9a6539b5-2e06-4f68-ad4b-facb7f34c29e.png" width = "400" height = "400">
 
-<h3> 게임 규칙 화면 </h3> <hr>
+게임 규칙 화면 
 
 <img src="https://user-images.githubusercontent.com/69779719/167596001-5c023953-063c-4c06-820d-ff861f34529f.png" width = "400" height = "400">
 
-<h3> 게임 시작 화면 </h3> <hr>
+게임 시작 화면
 
 <img src="https://user-images.githubusercontent.com/69779719/167596023-19188e58-d284-4fcc-85b2-b8630a9974c1.png" width = "400" height = "400">
 
-<h3> DFS를 이용해 생성된 미로 </h3> <hr>
+ DFS를 이용해 생성된 미로
 
 <img src="https://user-images.githubusercontent.com/69779719/167596124-f0963479-5ef3-46a1-a4ed-0fc657c6ead9.png" width = "400" height = "400">
 
-<h3> 완전 미로 생성 자세히 보기 </h3> <hr>
-https://github.com/ckdduf138/Algorithm/tree/main/VC%2B%2B/PerfectMaze
+<h3> ETC </h3> <hr>
+완전 미로 생성 자세히 보기 https://github.com/ckdduf138/Algorithm/tree/main/VC%2B%2B/PerfectMaze
