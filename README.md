@@ -35,4 +35,4 @@ C++, BFS, DFS
 <img src="https://user-images.githubusercontent.com/69779719/167596124-f0963479-5ef3-46a1-a4ed-0fc657c6ead9.png" width = "400" height = "400">
 
 <h3> ETC </h3> <hr>
-완전 미로 생성 자세히 보기 https://github.com/ckdduf138/Algorithm/tree/main/VC%2B%2B/PerfectMaze
+완전 미로 생성 자세히 보기: https://github.com/ckdduf138/Algorithm/tree/main/VC%2B%2B/PerfectMaze
